@@ -1,0 +1,27 @@
+[
+  {
+    "vendor_id": "1a2b",
+    "product_id": "3c4d",
+    "description": "Test BadUSB Device"
+  },
+  {
+    "vendor_id": "bad1",
+    "product_id": "dead",
+    "description": "Malicious Rubber Ducky Clone"
+  },
+  {
+    "vendor_id": "f0f0",
+    "product_id": "beef",
+    "description": "Unauthorized Flash Drive"
+  },
+  {
+    "vendor_id": "abcd",
+    "product_id": "1234",
+    "description": "Evil Twin Storage"
+  },
+  {
+    "vendor_id": "05ac",
+    "product_id": "12a8",
+    "description": "Simulated iPhone (for testing rogue devices)"
+  }
+]
